@@ -4,4 +4,7 @@ int i=4;
 int g=5;
 f=6;
 
-system.out.println ("helloworld");
+
+
+ggg=45;
+system.out.println("ddd")
